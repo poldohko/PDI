@@ -1,1 +1,5 @@
 # PDI
+DIPLOMATURA EN CIENCIA DE DATOS, APRENDIZAJE AUTOMÁTICO Y SUS APLICACIONES
+Materias Optativas 2023 (OP2-23)
+
+Procesamiento de imagenes 
